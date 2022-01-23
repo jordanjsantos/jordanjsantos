@@ -4,7 +4,7 @@
 
 ### About me!
 
-:computer: I'm currently studying Programming Logic, Java Programming and Linux!
+:computer: I'm currently studying Java Programming and Linux!
 
 </br>
 
