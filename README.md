@@ -14,21 +14,20 @@
 
 <h2>A little more about me:</h2>
 
-```typescript
-class Jordan extends Human {
-  name: string;
-  nationality: string;
+```java
+public class Jordan extends Human {
+  String name;
+  String nationality;
   
-  constructor() {
+  public Jordan() {
     super();
     this.name = "Jordan Santos";
     this.nationality = "Brazilian";
   }
   
-  languages: Array<string> = [
-    "Portuguese",
-    "English",
-  ];
+  List<String> languages = new ArrayList<>();
+  languages.add("Portuguese");
+  languages.add("English");
   
   technologies: {
     Java:           ["Java", "Spring Boot"];
