@@ -12,7 +12,7 @@
     </a>
 </p>
 
-<h2>A little more about me:</h2>
+<h2>About me</h2>
 
 ```java
 public class Jordan extends Human {
@@ -39,6 +39,17 @@ public class Jordan extends Human {
 ```
 <br>
 
-<h2>GitHub Stats</h2>
+<h2>Stack</h2>
 
-[![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordanjsantos&show_icons-true)](https://github.com/jordanjsantos/jordanjsantos)
+<a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" width="50" />
+</a>
+<a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" width="50" />
+</a>
+<a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="50" />
+</a>
+<a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" width="50" />
+</a>
